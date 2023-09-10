@@ -73,3 +73,5 @@ include_once "../vendor/autoload.php";
 //echo "<pre>";
 //var_dump($loginModel->validate());
 //echo "<pre>";
+
+\models\database\SqlConfig::getConfig();
