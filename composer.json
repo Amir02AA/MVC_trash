@@ -1,0 +1,9 @@
+{
+    "name": "asus/model-trainin",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "require": {}
+}
